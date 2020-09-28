@@ -1,0 +1,2 @@
+C:\Users\quinc\source\repos\ServerRestartTool-EXILED2\ServerRestartTool\obj\Debug\ServerRestartTool.csprojAssemblyReference.cache
+C:\Users\quinc\source\repos\ServerRestartTool-EXILED2\ServerRestartTool\obj\Debug\ServerRestartTool.csproj.CoreCompileInputs.cache

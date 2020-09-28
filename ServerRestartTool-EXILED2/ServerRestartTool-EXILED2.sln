@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerRestartTool", "ServerRestartTool\ServerRestartTool.csproj", "{6ECBBA0A-9B47-4BA1-9D6F-5433097A044F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECBBA0A-9B47-4BA1-9D6F-5433097A044F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECBBA0A-9B47-4BA1-9D6F-5433097A044F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECBBA0A-9B47-4BA1-9D6F-5433097A044F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECBBA0A-9B47-4BA1-9D6F-5433097A044F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE4B76D-ED2D-40EE-87B9-FA48D053B8F0}
+	EndGlobalSection
+EndGlobal
