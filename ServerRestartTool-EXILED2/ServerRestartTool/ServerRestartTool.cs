@@ -2,9 +2,8 @@
 using Exiled.API.Enums;
 using Exiled.API.Features;
 
-
 using Server = Exiled.Events.Handlers.Server;
-using Player = Exiled.Events.Handlers.Player;
+
 namespace ServerRestartTool
 {
     public class ServerRestartTool : Plugin<Config>
